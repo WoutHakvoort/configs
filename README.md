@@ -4,8 +4,8 @@ This repository contains all kinds of configurations used on my devices.
 - [Configs ⚡](#configs-)
   - [1. Windows Terminal, PowerShell & Oh My Posh 💠](#1-windows-terminal-powershell--oh-my-posh-)
     - [1.1. Prerequisites & PowerShell setup](#11-prerequisites--powershell-setup)
-  - [1.2. Creating and Setting the PowerShell configuration/profile](#12-creating-and-setting-the-powershell-configurationprofile)
-  - [1.3. Oh My Posh](#13-oh-my-posh)
+    - [1.2. Creating and Setting the PowerShell configuration/profile](#12-creating-and-setting-the-powershell-configurationprofile)
+    - [1.3. Oh My Posh](#13-oh-my-posh)
 
 
 ## 1. Windows Terminal, PowerShell & Oh My Posh 💠
