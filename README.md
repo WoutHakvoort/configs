@@ -60,7 +60,9 @@ oh-my-posh --init --shell pwsh --config C:\dev\configs\oh_my_posh-conf-wh.omp.js
 `Install-Module -Name Terminal-Icons -Repository PSGallery`
 6. Run the following command in PowerShell opened in Windows Terminal:
 `Install-Module PSReadLine --AllowPreRelease -Force`
-7. Restart Windows Terminal.
+7. Run the following command in PowerShell opened in Windows Terminal:
+`PowerShellGet\Install-Module posh-git -Scope CurrentUser -Force`
+8. Restart Windows Terminal.
 
 You now have a nicely pimped Windows Terminal.
 
