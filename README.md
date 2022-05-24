@@ -71,3 +71,4 @@ For more information:
 * https://www.hanselman.com/blog/adding-predictive-intellisense-to-my-windows-terminal-powershell-prompt-with-psreadline
 * https://www.nerdfonts.com/
 * https://ohmyposh.dev/
+* https://github.com/dahlbyk/posh-git
