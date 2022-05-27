@@ -28,7 +28,7 @@ winget install Microsoft.PowerShell
 ## 1.2. Creating and Setting the PowerShell configuration/profile
 1. Execute the following command: 
 ```sh
-if (!(Test-Path -Path $PROFILE) {
+if (!(Test-Path -Path $PROFILE)) {
   New-Item -ItemType File -Path $PROFILE -Force
 }
 ```
